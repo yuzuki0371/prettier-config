@@ -1,0 +1,10 @@
+{
+  "name": "@yuzuki0371/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared Prettier configuration",
+  "main": "index.json",
+  "files": ["index.json"],
+  "publishConfig": { "access": "public" },
+  "keywords": ["prettier", "config"],
+  "license": "MIT"
+}
